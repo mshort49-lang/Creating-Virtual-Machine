@@ -2,7 +2,7 @@
 <img width="261" height="174" alt="image" src="https://github.com/user-attachments/assets/651260d9-8e6c-470b-865e-88e684de8c48" />
 </p>
 
-<h1>Creating Vertual Machine and Resource Group(Azure)</h1>
+<h1>Creating Virtual Machine and Resource Group(Azure)</h1>
 This tutorial outlines the process of creating a Virtual Machine and resource.<br />
 
 

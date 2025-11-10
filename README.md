@@ -3,7 +3,7 @@
 </p>
 
 <h1>Creating Virtual Machine and Resource Group(Azure)</h1>
-This tutorial outlines the process of creating a Virtual Machine and resource.<br />
+This tutorial outlines the process of creating a Virtual Machine and a resource group.<br />
 
 
 

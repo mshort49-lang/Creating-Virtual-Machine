@@ -3,7 +3,7 @@
 </p>
 
 <h1>Creating Vertual Machine and Resource Group(Azure)</h1>
-This tutorial outlines the peocess of creating a Virtual Machine and resource.<br />
+This tutorial outlines the process of creating a Virtual Machine and resource.<br />
 
 
 
@@ -19,7 +19,7 @@ This tutorial outlines the peocess of creating a Virtual Machine and resource.<b
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Creating Virtual Machine and Resource Group
-- Obtaining public IP Address for remote desktop
+- Obtaining a public IP Address for remote desktop
 
 <h2>Deployment and Configuration Steps</h2>
 
